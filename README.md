@@ -2,7 +2,7 @@
 <h3 align="center">A Data Science and Engineering student from Italy</h3>
 
 <h2 align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=AndreaGhiglione.AndreaGhiglione"/>
+  <img src="https://komarev.com/ghpvc/?username=AndreaGhiglione&style=square" alt="AndreaGhiglione" />
   <img src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg"/>
 </h2>
 
