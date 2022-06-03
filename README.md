@@ -1,4 +1,4 @@
-<h1 align="center">Ciao <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I am Andrea Ghiglione </h1>
+<h1 align="center">Ciao <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="40px"> I am Andrea Ghiglione </h1>
 <h3 align="center">A Data Science and Engineering student from Italy</h3>
 
 <h2 align="center">
@@ -11,7 +11,7 @@
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
-<img align="right" padding-right:80px alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="300px"/>
+<img align="right" padding-right:80px alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" height="270px" width="300px"/>
   
 ## More About Me:
 
