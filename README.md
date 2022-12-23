@@ -15,10 +15,10 @@
   
 ## More About Me:
 
-- 📚 &nbsp; I’m currently studying Data Science in France
-- 🎓 &nbsp; I’m graduated in Computer Engineering
+- 📚 &nbsp; I’m currently working at Huawei as Research Engineer
+- 🎓 &nbsp; I’m graduated in Computer Engineering and I am studying Data Science
 - 💻 &nbsp; I’m passionate about Machine Learning and Data Engineering
-- 🌱 &nbsp; I’m currently learning Natural Language Processing
+- 🌱 &nbsp; I’m currently learning Natural Language Processing and Diffusion Models
 - 👨🏻‍💻 &nbsp; My projects are available on [Github](https://github.com/AndreaGhiglione?tab=repositories)
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/ghiglione-andrea/) or [Gmail](mailto:andreaghi98@gmail.com)
 - 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1rxy54iu5_o18j9ruvYsQXbI5azpdMNsp/view?usp=sharing)
