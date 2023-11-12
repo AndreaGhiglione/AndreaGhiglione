@@ -1,5 +1,5 @@
 <h1 align="center">Ciao <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="40px"> I am Andrea Ghiglione </h1>
-<h3 align="center">A Data Science and Engineering student from Italy</h3>
+<h3 align="center">A Machine Learning Engineer from Italy</h3>
 
 <h2 align="center">
   <img src="https://komarev.com/ghpvc/?username=AndreaGhiglione&style=square" alt="AndreaGhiglione" />
