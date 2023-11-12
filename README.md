@@ -53,6 +53,10 @@
   <a href="https://pytorch.org/" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> 
   </a>  
+
+  <a href="https://www.gnu.org/software/bash/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="azure" width="40" height="40"/> 
+  </a>
   
   <a href="https://spark.apache.org/" target="_blank"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" alt="spark" width="40" height="40"/> 
@@ -104,7 +108,8 @@
   
   <a href="https://www.gnu.org/software/bash/" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> 
-  </a> 
+  </a>  
+  
   
 </p>
 
