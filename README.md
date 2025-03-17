@@ -15,11 +15,11 @@
   
 ## More About Me:
 
-- 📚 &nbsp; I’m currently working at Cluster Reply as a AI Engineer.
+- 🤖 &nbsp; I’m an AI Engineer and an Entrepreneur.
 - 🎓 &nbsp; I’m graduated in Data Science and Engineering.
-- 💻 &nbsp; I’m passionate about Machine Learning and Data Engineering
-- 🌱 &nbsp; I’m currently deepening my knowledge about Natural Language Processing and Diffusion Models
-- 👨🏻‍💻 &nbsp; My projects are available on [Github](https://github.com/AndreaGhiglione?tab=repositories)
+- 💻 &nbsp; I’m passionate about Artificial Intelligence and Data Engineering.
+- 📚 &nbsp; I have years of experience working with Microsoft Azure, building AI applications.
+- 👨🏻‍💻 &nbsp; My academic projects are available on [Github](https://github.com/AndreaGhiglione?tab=repositories)
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/ghiglione-andrea/) or [Gmail](mailto:andreaghi98@gmail.com)
 - 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1rxy54iu5_o18j9ruvYsQXbI5azpdMNsp/view?usp=sharing)
 
@@ -54,8 +54,12 @@
     <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> 
   </a>  
 
-  <a href="https://www.gnu.org/software/bash/" target="_blank"> 
+  <a href="https://azure.microsoft.com/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="azure" width="40" height="40"/> 
+  </a>
+
+  <a href="https://www.databricks.com/" target="_blank"> 
+    <img src="https://www.vectorlogo.zone/logos/databricks/databricks-icon.svg" alt="azure" width="40" height="40"/> 
   </a>
   
   <a href="https://spark.apache.org/" target="_blank"> 
@@ -100,6 +104,10 @@
   
   <a href="https://www.cprogramming.com/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>   
+  </a> 
+
+  <a href="https://dotnet.microsoft.com/en-us/languages/csharp" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="c" width="40" height="40"/>   
   </a> 
   
   <a href="https://www.linux.org/" target="_blank"> 
