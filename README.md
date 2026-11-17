@@ -25,7 +25,7 @@
 - 💼 &nbsp; I have worked in multicultural teams both in corporate environments and as an entrepreneur.
 - 👨🏻‍💻 &nbsp; My academic projects are available on [Github](https://github.com/AndreaGhiglione?tab=repositories)
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/ghiglione-andrea/) or [Gmail](mailto:andreaghi98@gmail.com)
-- 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1rxy54iu5_o18j9ruvYsQXbI5azpdMNsp/view?usp=drive_link)
+- 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1U2kI9nw1riU5azqTyOo2s_mB8ocC33KA/view?usp=drive_link)
 
 </td>
 
